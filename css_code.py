@@ -71,5 +71,18 @@ css7='''
     border-radius:10px;
 }
 '''
-
+css8='''
+.QPushButton{
+    background-color:#f2d51e;
+    font-size:30px;
+    border:3px solid #1dfb83;
+    border-radius:10px;
+}
+.QPushButton:hover{
+    background-color:#f2d51e;
+    font-size:30px;
+    border:3px solid #fdb816;
+    border-radius:10px;
+}
+'''
 #_________________css___________________
